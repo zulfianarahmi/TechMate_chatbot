@@ -1,7 +1,7 @@
 import telebot
 
 # Masukkan TOKEN API dari BotFather
-TOKEN = "(..........)"
+TOKEN = "7670042660:AAFC3lAacON-Al1aCBrZ0IKhwhiOmqQmjqM"
 bot = telebot.TeleBot(TOKEN)
 
 # Dictionary untuk daftar pertanyaan berdasarkan topik
