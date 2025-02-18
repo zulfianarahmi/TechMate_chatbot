@@ -10,7 +10,17 @@ TechMateBot adalah chatbot interaktif berbasis Telegram yang membantu pemula mem
 - Python
 - Telegram Bot API (pyTelegramBotAPI)
 
-## 📌 To-Do List
- Menambahkan lebih banyak pertanyaan
- Menambahkan inline keyboard untuk navigasi yang lebih mudah
- Integrasi dengan API untuk jawaban yang lebih dinamis
+## Reminder
+TechMateBot memberikan jawaban berdasarkan informasi yang tersedia, namun karena menggunakan sistem berbasis AI, terkadang bisa ada kesalahan atau ketidakakuratan dalam jawaban yang diberikan. Harap dicatat bahwa chatbot ini tidak sempurna dan jawaban yang diberikan tidak selalu 100% akurat.
+
+Jika Anda menemukan kesalahan atau membutuhkan klarifikasi lebih lanjut, jangan ragu untuk menghubungi Zulfiana Rahmi, di zulfianarahmi4@gmail.com
+
+## Usage Instructions
+- Ketik /start untuk memulai interaksi dengan TechMateBot di Telegram.
+- Pilih topik yang ingin Anda pelajari: Cloud, DevOps, atau Data Analytics.
+- Pilih pertanyaan dengan angka dan dapatkan jawaban.
+
+## Contributing
+- Fork repository ini.
+- Buat branch baru untuk fitur atau perbaikan.
+- Kirim pull request untuk review.
